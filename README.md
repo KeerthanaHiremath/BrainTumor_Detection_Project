@@ -20,7 +20,7 @@ Detect brain tumors from MRI images using a custom Convolutional Neural Network 
 
 
 ## 📁 Project Structure
-
+'''
 ├── brain_tumor_detection.py         # 🧠 Main Python script for training, testing, and prediction
 ├── brain_tumor_dataset/             # 📂 MRI image dataset
 │   ├── yes/                         # ✅ MRI images with tumors
@@ -28,7 +28,7 @@ Detect brain tumors from MRI images using a custom Convolutional Neural Network 
 ├── model.pth                        # 💾 Saved trained model weights
 ├── requirements.txt                 # 📦 Required Python packages
 └── README.md                        # 📘 Project documentation
-     
+'''
 
 ## 📚 What I Learned
 
