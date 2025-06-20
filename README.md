@@ -26,7 +26,6 @@ brain-tumor-detection/
 ├── brain_tumor_dataset/              # MRI image dataset
 │   ├── yes/                          # MRI images with tumors
 │   └── no/                           # MRI images without tumors
-├── model.pth                         # Saved trained model weights
 ├── requirements.txt                  # Required Python packages
 └── README.md                         # Project documentation
 ```
